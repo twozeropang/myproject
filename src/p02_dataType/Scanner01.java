@@ -15,6 +15,8 @@ public class Scanner01 {
 
 		int num3 = num1 + num2;
 		System.out.println("num1 = " + num1 + "\tnum2 = " + num2 + "\t합계 =" + num3);
+		int num4 = num1 * num3;
+		System.out.println("num1 =" + num1 + "\tnum3 = " + num3 + "\t곱 =" + num4);
 
 	}
 }
